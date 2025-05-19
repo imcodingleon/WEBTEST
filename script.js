@@ -1,5 +1,5 @@
 // Google Apps Script 웹 앱 URL을 여기에 입력하세요
-const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbyq2emkHjdx9jDxzamwMwIcHKCwhbQabM3_7WdbDt9SxLKR_i3FbxSBF58K482MRwZq/exec';
+const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbxUjMr6uY5pkNzmGOdsGl7bDv6gQ_IyrhxZ5zuFku-lfObIxmYzfkbgBOVvoHQvlEKD/exec';
 
 async function submitEmail(event) {
     event.preventDefault();
